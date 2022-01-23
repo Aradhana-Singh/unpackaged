@@ -1,0 +1,44 @@
+
+‚sf:CyclomaticComplexity"_The class 'ActivityAssignmentsEditController' has a Cyclomatic Complexity of 19 (Highest = 45).(¨¼ÿð
++sf:TooManyFields"Too many fields(¨¼ÿð
+Esf:ExcessivePublicCount""Too many public methods and fields(¨¼ÿð
+6sf:CommentedTodo"Remove this TODO mark(ÝûŽúÿÿÿÿÿ
+ysf:CyclomaticComplexity#"VThe constructor 'ActivityAssignmentsEditController' has a Cyclomatic Complexity of 22.(×…¶„
+Rsf:ConfusingTernary*".Avoid confusing if (x != y) ..; else ..; logic(»–Ùøÿÿÿÿ
+3sf:SOQLInjection7"SOQL Injection possible(¿õÅû
+Rsf:ConfusingTernaryf".Avoid confusing if (x != y) ..; else ..; logic(‡×óÈýÿÿÿÿ
+ssf:FieldLevelSecurityo"MPermissions should be checked before accessing resource resourcedactivity__c.(ØÂûûÿÿÿÿ
+Ssf:CollapsibleIfStatements",These nested if statements could be combined(øçÖì
+-sf:CommentSizeÒ"Line too long(úþÓ¹ýÿÿÿÿ
+Ssf:UnusedLocalVariableÖ"1Avoid unused local variables such as 'startDate'.(ãœÇ
+4sf:SOQLInjectionÞ"SOQL Injection possible(óÔÏð
+usf:FieldLevelSecurityë"NPermissions should be checked before accessing resource activityassignment__c.(âËçÝûÿÿÿÿ
+usf:FieldLevelSecurityƒ"NPermissions should be checked before accessing resource activityassignment__c.(Üëóïýÿÿÿÿ
+fsf:FieldLevelSecurity"DPermissions should be checked before accessing resource location__c.(‚É±‰
+4sf:SOQLInjectionì"SOQL Injection possible(ò­í³
+ƒsf:AvoidDuplicateLiterals£"]The String literal '.name' appears 13 times in this file; the first occurrence is on line 419(†áË
+Ssf:UnusedLocalVariableÞ"0Avoid unused local variables such as 'proposed'.(ãäÈþ
+9sf:SOQLInjectionà"SOQL Injection possible(´‡Òùÿÿÿÿ
+Dsf:ExcessiveMethodLengthí"Avoid really long methods.(óØ€¿ýÿÿÿÿ
+gsf:CyclomaticComplexityí">The method 'GetAssignments' has a Cyclomatic Complexity of 24.(óØ€¿ýÿÿÿÿ
+\sf:NcssMethodCountí"8The method GetAssignments() has an NCSS line count of 72(óØ€¿ýÿÿÿÿ
+`sf:NPathComplexityí"<The method GetAssignments() has an NPath complexity of 68640(óØ€¿ýÿÿÿÿ
+dsf:UnusedLocalVariable‰"AAvoid unused local variables such as 'earliestAssignmentEndDate'.(Ë¹¸
+Rsf:UnusedLocalVariable¨"*Avoid unused local variables such as 'P0'.(ÍÙî§øÿÿÿÿ
+Ssf:UnusedLocalVariable©"0Avoid unused local variables such as 'proposed'.(ãäÈþ
+Ysf:UnusedLocalVariableª"1Avoid unused local variables such as 'templated'.(ÄÜºíýÿÿÿÿ
+Wsf:UnusedLocalVariable«"4Avoid unused local variables such as 'appliedModel'.(ñ—ð·
+Ysf:UnusedLocalVariable¬"6Avoid unused local variables such as 'activatedModel'.(òó¦
+3sf:SOQLInjection²"SOQL Injection possible(‰ð¢
+Ssf:ConfusingTernaryÆ".Avoid confusing if (x != y) ..; else ..; logic(ðýïÄúÿÿÿÿ
+Ssf:CollapsibleIfStatements‹",These nested if statements could be combined(þï©¾
+Dsf:ExcessiveMethodLength›"Avoid really long methods.(‘Ò±˜þÿÿÿÿ
+[sf:AvoidReassigningParameters›",Avoid reassigning parameters such as 'value'(‘Ò±˜þÿÿÿÿ
+hsf:CyclomaticComplexity›"?The method 'SaveAssignments' has a Cyclomatic Complexity of 45.(‘Ò±˜þÿÿÿÿ
+^sf:NcssMethodCount›":The method SaveAssignments() has an NCSS line count of 112(‘Ò±˜þÿÿÿÿ
+asf:NPathComplexity›"=The method SaveAssignments() has an NPath complexity of 17175(‘Ò±˜þÿÿÿÿ
+Ssf:UnusedLocalVariableÈ"0Avoid unused local variables such as 'proposed'.(ãäÈþ
+9sf:SOQLInjectionÊ"SOQL Injection possible(“Ÿ•ªúÿÿÿÿ
+`sf:AvoidReassigningParameters…"1Avoid reassigning parameters such as 'searchTerm'(ðŽæ¤þÿÿÿÿ
+9sf:SOQLInjection“"SOQL Injection possible(ìû²ýÿÿÿÿ
+t"sf:VariableDeclarationHidesAnotherÇ"@CanCreateAssignments declaration hides another field or variable(£Âœþÿÿÿÿ
