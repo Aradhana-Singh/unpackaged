@@ -1,7 +1,0 @@
-organization=aradhana-singh2416
-projectKey=small-sample-project
-serverUrl=https://app-eu.codescan.io
-serverVersion=8.5.0.37579
-dashboardUrl=https://app-eu.codescan.io/dashboard?id=small-sample-project
-ceTaskId=AX575qxc2YzZfKDhcs16
-ceTaskUrl=https://app-eu.codescan.io/api/ce/task?id=AX575qxc2YzZfKDhcs16
